@@ -27,8 +27,6 @@ function TeacherList() {
                     <input type="text" id="time"/>
                 </div>
             </form>
-            <div id="casa"></div>
-
             </PageHeader>
         </div>
     )
