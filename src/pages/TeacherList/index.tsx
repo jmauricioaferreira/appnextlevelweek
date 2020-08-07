@@ -4,7 +4,6 @@ import PageHeader from '../../assets/components/PageHeader';
 import TeacherItem from '../../assets/components/TeacherItem';
 import Input from '../../assets/components/Input';
 
-
 import './styles.css';
 
 
